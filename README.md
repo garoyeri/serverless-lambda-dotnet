@@ -24,3 +24,4 @@ AWS also has documentation on [.NET Core CLI](https://docs.aws.amazon.com/lambda
 * [AWS Secrets Manager](https://aws.amazon.com/secrets-manager/)
 * [AWS System Manager Parameter Store](https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-parameter-store.html)
 * [Whynamo](https://read.acloud.guru/why-amazon-dynamodb-isnt-for-everyone-and-how-to-decide-when-it-s-for-you-aefc52ea9476): Why you might not want to use DynamoDB even though it looks super attractive and easy!
+* [LambCI](https://github.com/lambci/docker-lambda): Lambda runtime in a Docker container
